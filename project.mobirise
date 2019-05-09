@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Andreas Karaiskos | Business Communications Through Design-clone",
-    "currentPage": "page6.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "lightamp",
       "title": "LightAMP",
@@ -108,7 +108,7 @@
         "url": "https://fonts.googleapis.com/css?family=Adamina:400"
       }
     ],
-    "uniqCompNum": 149,
+    "uniqCompNum": 155,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1492,7 +1492,7 @@
             }
           },
           "_name": "features2",
-          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-2000x1980.jpg\" selected=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type!='color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-1764x1746.jpg\" layout=\"responsive\" width=\"882\" height=\"873\" alt=\"andreas karaiskos business communications through design - website design - boy-girl-girl-boy-boy-girl-paper-chain\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-1764x1746.jpg\" alt=\"andreas karaiskos business communications through design - website design - boy-girl-girl-boy-boy-girl-paper-chain\" title=\"andreas karaiskos | business communications through design | Website Design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><span style=\"font-weight: normal;\">Planning</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">As building designers (Architects), interior designers, graphic designers, consultants and engineers, we partner with our clients on some special projects every year. These projects can be in the way of a Way-Out sign, a renovation or a new build. We serve our clients as trusted advisors.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br><b>Our work reflects an enduring commitment to sustainability and the belief that design is one of the most powerful strategic tools for securing enduring meaningful environments.&nbsp;<br><br>Successful buildings capture the spirit of their surroundings, even as they assert their own identity. They’re visually arresting, healthy, comfortable, flexible, secure and efficient, environmentally consious, a pleasure to be in. And they pay their way, adding real value for their owners and users.</b><br><br><br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-sm btn-secondary\" href=\"https://mobirise.com\">\n                        LEARN MORE\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-2000x1980.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type!='color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"bg.type!='color' && overlay\">\n        <input type=\"range\" inline title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' && overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-1764x1746.jpg\" layout=\"responsive\" width=\"882\" height=\"873\" alt=\"andreas karaiskos business communications through design - website design - boy-girl-girl-boy-boy-girl-paper-chain\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/10-herkomer-close-elavation-1764x1746.jpg\" alt=\"andreas karaiskos business communications through design - website design - boy-girl-girl-boy-boy-girl-paper-chain\" title=\"andreas karaiskos | business communications through design | Website Design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><span style=\"font-weight: normal;\">Planning</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">As building designers (Architects), interior designers, graphic designers, consultants and engineers, we partner with our clients on some special projects every year. These projects can be in the way of a Way-Out sign, a renovation or a new build. We serve our clients as trusted advisors.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br><b>Our work reflects an enduring commitment to sustainability and the belief that design is one of the most powerful strategic tools for securing enduring meaningful environments.&nbsp;<br><br>Successful buildings capture the spirit of their surroundings, even as they assert their own identity. They’re visually arresting, healthy, comfortable, flexible, secure and efficient, environmentally consious, a pleasure to be in. And they pay their way, adding real value for their owners and users.</b><br><br><br></p>\n                <div mbr-buttons class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-sm btn-secondary\" href=\"https://mobirise.com\">\n                        LEARN MORE\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "features2-14",
           "_isUserblock": true,
           "_sourceTheme": "lightamp",
@@ -2328,7 +2328,7 @@
             }
           },
           "_name": "features2",
-          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" selected=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" layout=\"responsive\" width=\"521.203\" height=\"391\" alt=\"andreas karaiskos business communications through design - Graphic design\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <a href=\"page4.html#features2-1h\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" alt=\"andreas karaiskos business communications through design - Graphic design\" title=\"andreas karaiskos | business communications through design | Graphic design\"></a>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Graphic Design&nbsp;</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Delivering profitable, strategic, intelligent, forward thinking, innovative, Effective Graphic Design Communication Solutions.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Through research, for Research, Image building, Brand and Corporate Identity, Corporate literature, Website design, Social Media, Forecasting, Prototype and Packaging design, Product design, Substance and Presentation planning, Advertising in-store and outdoor, Photography, Visual Marketing, Promotions, Environment design, Events and Exhibition design, Public and Business Relations.<br><br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-danger-outline\" href=\"page4.html#features2-1h\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" selected=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" layout=\"responsive\" width=\"881.1129999999999\" height=\"661\" alt=\"andreas karaiskos business communications through design - Graphic design\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <a href=\"page4.html#features2-1h\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/effect2-1333x1000.jpg\" alt=\"andreas karaiskos business communications through design - Graphic design\" title=\"andreas karaiskos | business communications through design | Graphic design\"></a>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Graphic Design&nbsp;</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Delivering profitable, strategic, intelligent, forward thinking, innovative, Effective Graphic Design Communication Solutions.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Through research, for Research, Image building, Brand and Corporate Identity, Corporate literature, Website design, Social Media, Forecasting, Prototype and Packaging design, Product design, Substance and Presentation planning, Advertising in-store and outdoor, Photography, Visual Marketing, Promotions, Environment design, Events and Exhibition design, Public and Business Relations.<br><br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-danger-outline\" href=\"page4.html#features2-1h\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "features2-1r",
           "_isUserblock": true,
           "_sourceTheme": "lightamp",
@@ -2388,7 +2388,7 @@
               }
             }
           },
-          "_customHTML": "<section class=\"gallery2\" group=\"Gallery\" plugins=\"amp-main\">\n    <!--  -->\n    <mbr-parameters>\n        <!-- -->\n        <header>Cards:</header>\n        <input type=\"range\" inline=\"\" title=\"Amount cards:\" name=\"amountCards\" min=\"1\" max=\"6\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show title:\" name=\"showCardsTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show text:\" name=\"showCardsText\">\n        <!--  -->\n    </mbr-parameters>\n    <!--  -->\n    <!-- Container -->\n    <div class=\"fluid-container\">\n        <!-- Cards -->\n        <div class=\"mbr-row\">\n            <!-- Card #1 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-12' : amountCards == 1, 'mbr-col-md-4' : amountCards >= 3, 'mbr-col-md-6' : amountCards == 2}\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/astons-office-mono-2-1200x795.jpg\" layout=\"responsive\" width=\"404.95309568480303\" height=\"304\" alt=\"LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.   Astons London took the big leap to go independent of franchise holdings. Partnering, our aim together was to create a unique brand under their own name to introduce to their existing customers taking care not to alienate them, that would both uphold the integrity of their previous service offer, and develop a new customer base against an ever saturated and highly competitive market.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-office-mono-2-1200x795.jpg\" alt=\"LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.   Astons London took the big leap to go independent of franchise holdings. Partnering, our aim together was to create a unique brand under their own name to introduce to their existing customers taking care not to alienate them, that would both uphold the integrity of their previous service offer, and develop a new customer base against an ever saturated and highly competitive market.\" title=\"Astons London Branding\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Astons London</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- Card #2 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards >= 3, 'mbr-col-md-6' : amountCards == 2}\" mbr-if=\"amountCards > 1\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/marks-and-spencer-logo-cont-4-1205x629.jpg\" layout=\"responsive\" width=\"404.7390029325513\" height=\"304\" alt=\" Making Marks &amp; Spencer Over several years I have helped Marks and Spencer to enhance their brand and product lines through developing creative, innovative, profitable design solutions that adhere to their corporate guidelines. Working alongside company directors, managers, buyers and suppliers transforming the customer shopping experience and recreating a brand to bring a once perceived tired and dusty Marks and Spencer into the Twentieth Century. Designing products which not only meet their sales projections but exceed their expectations affecting unprecedented sales at launch throughout stores both nationally and internationally, often overwhelming the ability to supply on demand.  General Store and Seasonal Promotions. Hosiery Department Pseudo Brand Packaging Design, Packaging Construction, Store Navigation Graphics and POS. 'Wonderbum’ Hosiery Innovation Packaging Design. Womenswear and Menswear Merchandise Promotions, Packaging and POS. Lingerie Packaging and Promotions. ‘Memory Bra’ Innovation Packaging Design. Gift Packaging, Ticketing, Special Events and Fibre Promotions.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <a href=\"page9.html#menu2-2v\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/marks-and-spencer-logo-cont-4-1205x629.jpg\" alt=\" Making Marks &amp; Spencer Over several years I have helped Marks and Spencer to enhance their brand and product lines through developing creative, innovative, profitable design solutions that adhere to their corporate guidelines. Working alongside company directors, managers, buyers and suppliers transforming the customer shopping experience and recreating a brand to bring a once perceived tired and dusty Marks and Spencer into the Twentieth Century. Designing products which not only meet their sales projections but exceed their expectations affecting unprecedented sales at launch throughout stores both nationally and internationally, often overwhelming the ability to supply on demand.  General Store and Seasonal Promotions. Hosiery Department Pseudo Brand Packaging Design, Packaging Construction, Store Navigation Graphics and POS. 'Wonderbum’ Hosiery Innovation Packaging Design. Womenswear and Menswear Merchandise Promotions, Packaging and POS. Lingerie Packaging and Promotions. ‘Memory Bra’ Innovation Packaging Design. Gift Packaging, Ticketing, Special Events and Fibre Promotions.\" title=\"Making Marks and Spencer | Business Communications Through Design\"></a>\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Marks &amp; Spencer</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- Card #3 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards >= 3}\" mbr-if=\"amountCards > 2\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/meli-melo-facia-1-642x865.jpg\" layout=\"responsive\" width=\"404.60479041916165\" height=\"303\" alt=\"LOGO DESIGN AND 'BRITISH FUSION SEASONAL STORE PROMOTION PHOTOGRAPHY.   The largest network of fashion accessories and jewellery stores in Romania, approached us to re-develop their Logo and create a Direction for their 'British Fusion Seasonal Store Promotion'. We concieved, photographed, produced, and delivered the whole project within a period of twenty four hour days.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/meli-melo-facia-1-642x865.jpg\" alt=\"LOGO DESIGN AND 'BRITISH FUSION SEASONAL STORE PROMOTION PHOTOGRAPHY.   The largest network of fashion accessories and jewellery stores in Romania, approached us to re-develop their Logo and create a Direction for their 'British Fusion Seasonal Store Promotion'. We concieved, photographed, produced, and delivered the whole project within a period of twenty four hour days.\" title=\" MeliMelo Paris | Busines Communications Through Design\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">MeliMelo Paris</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 4 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-12' : amountCards == 4, 'mbr-col-md-4' : amountCards == 6, 'mbr-col-md-6' : amountCards == 5}\" mbr-if=\"amountCards > 3\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/coats-viyella-536x368.jpg\" layout=\"responsive\" width=\"405.3333333333333\" height=\"304\" alt=\"BOOT LEG TROUSER PROMOTIONAL POS AND GARMENT TICKETING, DEPARTMENTAL FIBRE PROMOTIONS AND EASTEX GARMENT PRODUCT CATALOGUE.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/coats-viyella-536x368.jpg\" alt=\"BOOT LEG TROUSER PROMOTIONAL POS AND GARMENT TICKETING, DEPARTMENTAL FIBRE PROMOTIONS AND EASTEX GARMENT PRODUCT CATALOGUE.\" title=\"Coats Viyella Clothing\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\"><div><br></div><div>Coats Viyella Clothing</div></h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 5 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards == 6, 'mbr-col-md-6' : amountCards == 5}\" mbr-if=\"amountCards > 4\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/lyocell-fibre-promotion-everywear-1-522x800.jpg\" layout=\"responsive\" width=\"405.00958466453676\" height=\"304\" alt=\"LOGO DEVELOPMENT AND GENERAL PROMOTION OF CHARACTERISTICS OF PROPERTIES OF LENZING LYOCELL INTELLIGENT FIBRE/TRADE PRESENTATION.   The purpose of this project was twofold, to re-design the Lenzing Lyocell Logo to make it more easily reproducible, powerful, memorable and aesthetically pleasing, and through a ticketing device taking the form of a booklet, convey the unique characteristic properties of the Lyocell Intelligent Fibre for a Trade presentation and Buyers fashion show. But moreover, to help create a platform for negotiations for Lenzing's alliance with Marks and Spencer for Lenzing's product endorsement within M&amp;S Stores.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/lyocell-fibre-promotion-everywear-1-522x800.jpg\" alt=\"LOGO DEVELOPMENT AND GENERAL PROMOTION OF CHARACTERISTICS OF PROPERTIES OF LENZING LYOCELL INTELLIGENT FIBRE/TRADE PRESENTATION.   The purpose of this project was twofold, to re-design the Lenzing Lyocell Logo to make it more easily reproducible, powerful, memorable and aesthetically pleasing, and through a ticketing device taking the form of a booklet, convey the unique characteristic properties of the Lyocell Intelligent Fibre for a Trade presentation and Buyers fashion show. But moreover, to help create a platform for negotiations for Lenzing's alliance with Marks and Spencer for Lenzing's product endorsement within M&amp;S Stores.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" title=\"Lenzing Lyocell (Austria) | Business Communications Through Design\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Lenzing Lyocell (Austria)</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 6 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards == 6}\" mbr-if=\"amountCards > 5\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/lenzing-lyocell-women-1290x892.jpg\" layout=\"responsive\" width=\"405.3333333333333\" height=\"304\" alt=\"WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.   Following Lenzing's successful introduction of Lyocell to Marks and Spencer, an alliance brand was formed and developed to be implemented throughout M&amp;S Stores Internationally, and a campaign created to introduce the fibre to the customer by way of a Womens and Mens Fashion Product Showcase, including Advertising, Public Relations material, Instore graphics, POS, and Garment Ticketing.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/lenzing-lyocell-women-1290x892.jpg\" alt=\"WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.   Following Lenzing's successful introduction of Lyocell to Marks and Spencer, an alliance brand was formed and developed to be implemented throughout M&amp;S Stores Internationally, and a campaign created to introduce the fibre to the customer by way of a Womens and Mens Fashion Product Showcase, including Advertising, Public Relations material, Instore graphics, POS, and Garment Ticketing.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" title=\"Lenzing Lyocell (Austria) - WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Lenzing Lyocell (Austria)</h3>\n                    </div>\n                </div>\n            </div>\n        </div>\n        </div></section>",
+          "_customHTML": "<section class=\"gallery2\" group=\"Gallery\" plugins=\"amp-main\">\n    <!--  -->\n    <mbr-parameters>\n        <!-- -->\n        <header>Cards:</header>\n        <input type=\"range\" inline=\"\" title=\"Amount cards:\" name=\"amountCards\" min=\"1\" max=\"6\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show title:\" name=\"showCardsTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show text:\" name=\"showCardsText\">\n        <!--  -->\n    </mbr-parameters>\n    <!--  -->\n    <!-- Container -->\n    <div class=\"fluid-container\">\n        <!-- Cards -->\n        <div class=\"mbr-row\">\n            <!-- Card #1 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-12' : amountCards == 1, 'mbr-col-md-4' : amountCards >= 3, 'mbr-col-md-6' : amountCards == 2}\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/astons-office-mono-2-1200x795.jpg\" layout=\"responsive\" width=\"644.7279549718575\" height=\"484\" alt=\"LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.   Astons London took the big leap to go independent of franchise holdings. Partnering, our aim together was to create a unique brand under their own name to introduce to their existing customers taking care not to alienate them, that would both uphold the integrity of their previous service offer, and develop a new customer base against an ever saturated and highly competitive market.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-office-mono-2-1200x795.jpg\" alt=\"LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.   Astons London took the big leap to go independent of franchise holdings. Partnering, our aim together was to create a unique brand under their own name to introduce to their existing customers taking care not to alienate them, that would both uphold the integrity of their previous service offer, and develop a new customer base against an ever saturated and highly competitive market.\" title=\"Astons London Branding\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Astons London</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- Card #2 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards >= 3, 'mbr-col-md-6' : amountCards == 2}\" mbr-if=\"amountCards > 1\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/marks-and-spencer-logo-cont-4-1205x629.jpg\" layout=\"responsive\" width=\"644.3870967741935\" height=\"484\" alt=\" Making Marks &amp; Spencer Over several years I have helped Marks and Spencer to enhance their brand and product lines through developing creative, innovative, profitable design solutions that adhere to their corporate guidelines. Working alongside company directors, managers, buyers and suppliers transforming the customer shopping experience and recreating a brand to bring a once perceived tired and dusty Marks and Spencer into the Twentieth Century. Designing products which not only meet their sales projections but exceed their expectations affecting unprecedented sales at launch throughout stores both nationally and internationally, often overwhelming the ability to supply on demand.  General Store and Seasonal Promotions. Hosiery Department Pseudo Brand Packaging Design, Packaging Construction, Store Navigation Graphics and POS. 'Wonderbum’ Hosiery Innovation Packaging Design. Womenswear and Menswear Merchandise Promotions, Packaging and POS. Lingerie Packaging and Promotions. ‘Memory Bra’ Innovation Packaging Design. Gift Packaging, Ticketing, Special Events and Fibre Promotions.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <a href=\"page9.html#menu2-2v\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/marks-and-spencer-logo-cont-4-1205x629.jpg\" alt=\" Making Marks &amp; Spencer Over several years I have helped Marks and Spencer to enhance their brand and product lines through developing creative, innovative, profitable design solutions that adhere to their corporate guidelines. Working alongside company directors, managers, buyers and suppliers transforming the customer shopping experience and recreating a brand to bring a once perceived tired and dusty Marks and Spencer into the Twentieth Century. Designing products which not only meet their sales projections but exceed their expectations affecting unprecedented sales at launch throughout stores both nationally and internationally, often overwhelming the ability to supply on demand.  General Store and Seasonal Promotions. Hosiery Department Pseudo Brand Packaging Design, Packaging Construction, Store Navigation Graphics and POS. 'Wonderbum’ Hosiery Innovation Packaging Design. Womenswear and Menswear Merchandise Promotions, Packaging and POS. Lingerie Packaging and Promotions. ‘Memory Bra’ Innovation Packaging Design. Gift Packaging, Ticketing, Special Events and Fibre Promotions.\" title=\"Making Marks and Spencer | Business Communications Through Design\"></a>\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Marks &amp; Spencer</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- Card #3 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards >= 3}\" mbr-if=\"amountCards > 2\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/meli-melo-facia-1-642x865.jpg\" layout=\"responsive\" width=\"644.9640718562874\" height=\"483\" alt=\"LOGO DESIGN AND 'BRITISH FUSION SEASONAL STORE PROMOTION PHOTOGRAPHY.   The largest network of fashion accessories and jewellery stores in Romania, approached us to re-develop their Logo and create a Direction for their 'British Fusion Seasonal Store Promotion'. We concieved, photographed, produced, and delivered the whole project within a period of twenty four hour days.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/meli-melo-facia-1-642x865.jpg\" alt=\"LOGO DESIGN AND 'BRITISH FUSION SEASONAL STORE PROMOTION PHOTOGRAPHY.   The largest network of fashion accessories and jewellery stores in Romania, approached us to re-develop their Logo and create a Direction for their 'British Fusion Seasonal Store Promotion'. We concieved, photographed, produced, and delivered the whole project within a period of twenty four hour days.\" title=\" MeliMelo Paris | Busines Communications Through Design\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">MeliMelo Paris</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 4 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-12' : amountCards == 4, 'mbr-col-md-4' : amountCards == 6, 'mbr-col-md-6' : amountCards == 5}\" mbr-if=\"amountCards > 3\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/coats-viyella-536x368.jpg\" layout=\"responsive\" width=\"645.3333333333333\" height=\"484\" alt=\"BOOT LEG TROUSER PROMOTIONAL POS AND GARMENT TICKETING, DEPARTMENTAL FIBRE PROMOTIONS AND EASTEX GARMENT PRODUCT CATALOGUE.\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/coats-viyella-536x368.jpg\" alt=\"BOOT LEG TROUSER PROMOTIONAL POS AND GARMENT TICKETING, DEPARTMENTAL FIBRE PROMOTIONS AND EASTEX GARMENT PRODUCT CATALOGUE.\" title=\"Coats Viyella Clothing\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\"><div><br></div><div>Coats Viyella Clothing</div></h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 5 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards == 6, 'mbr-col-md-6' : amountCards == 5}\" mbr-if=\"amountCards > 4\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/lyocell-fibre-promotion-everywear-1-522x800.jpg\" layout=\"responsive\" width=\"644.817891373802\" height=\"484\" alt=\"LOGO DEVELOPMENT AND GENERAL PROMOTION OF CHARACTERISTICS OF PROPERTIES OF LENZING LYOCELL INTELLIGENT FIBRE/TRADE PRESENTATION.   The purpose of this project was twofold, to re-design the Lenzing Lyocell Logo to make it more easily reproducible, powerful, memorable and aesthetically pleasing, and through a ticketing device taking the form of a booklet, convey the unique characteristic properties of the Lyocell Intelligent Fibre for a Trade presentation and Buyers fashion show. But moreover, to help create a platform for negotiations for Lenzing's alliance with Marks and Spencer for Lenzing's product endorsement within M&amp;S Stores.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/lyocell-fibre-promotion-everywear-1-522x800.jpg\" alt=\"LOGO DEVELOPMENT AND GENERAL PROMOTION OF CHARACTERISTICS OF PROPERTIES OF LENZING LYOCELL INTELLIGENT FIBRE/TRADE PRESENTATION.   The purpose of this project was twofold, to re-design the Lenzing Lyocell Logo to make it more easily reproducible, powerful, memorable and aesthetically pleasing, and through a ticketing device taking the form of a booklet, convey the unique characteristic properties of the Lyocell Intelligent Fibre for a Trade presentation and Buyers fashion show. But moreover, to help create a platform for negotiations for Lenzing's alliance with Marks and Spencer for Lenzing's product endorsement within M&amp;S Stores.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" title=\"Lenzing Lyocell (Austria) | Business Communications Through Design\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Lenzing Lyocell (Austria)</h3>\n                    </div>\n                </div>\n            </div>\n            <!-- 6 -->\n            <div class=\"mbr-col-sm-12 card p-0\" mbr-class=\"{'mbr-col-md-4' : amountCards == 6}\" mbr-if=\"amountCards > 5\">\n                <div class=\"img\">\n                    <amp-img src=\"@PROJECT_PATH@/assets/images/lenzing-lyocell-women-1290x892.jpg\" layout=\"responsive\" width=\"645.3333333333333\" height=\"484\" alt=\"WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.   Following Lenzing's successful introduction of Lyocell to Marks and Spencer, an alliance brand was formed and developed to be implemented throughout M&amp;S Stores Internationally, and a campaign created to introduce the fibre to the customer by way of a Womens and Mens Fashion Product Showcase, including Advertising, Public Relations material, Instore graphics, POS, and Garment Ticketing.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" class=\"mobirise-loader\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/lenzing-lyocell-women-1290x892.jpg\" alt=\"WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.   Following Lenzing's successful introduction of Lyocell to Marks and Spencer, an alliance brand was formed and developed to be implemented throughout M&amp;S Stores Internationally, and a campaign created to introduce the fibre to the customer by way of a Womens and Mens Fashion Product Showcase, including Advertising, Public Relations material, Instore graphics, POS, and Garment Ticketing.  Lensing Fibre Logo | Womens Instore graphics, POS, and Garment Ticketing | Mens Instore graphics, POS, and Garment Ticketing A Sugar &amp; Spice Origination\" title=\"Lenzing Lyocell (Austria) - WOMENS AND MENS INTERNATIONAL PR, FIBRE LOGO, BRANDING/ADVERTISING/WEB.\">\n                    </amp-img>\n                    <!-- Card-hover -->\n                    <div class=\"descr-card mbr-flex mbr-column mbr-px-5\">\n                        <p class=\"mbr-white mbr-fonts-style mbr-light\" mbr-theme-style=\"display-4\" mbr-if=\"showCardsText\"></p>              \n                        <h3 class=\"mbr-white mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showCardsTitle\">Lenzing Lyocell (Austria)</h3>\n                    </div>\n                </div>\n            </div>\n        </div>\n        </div></section>",
           "_anchor": "gallery2-2t",
           "_isUserblock": true,
           "_sourceTheme": "serviceamp",
@@ -4610,6 +4610,97 @@
           "_isUserblock": true,
           "_sourceTheme": "lightamp",
           "_cid": "rpZCm85JmZ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              ".mbr-overlay": {
+                "background-color": "@overlayColor",
+                "opacity": "@overlayOpacity"
+              }
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".image-block": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center"
+            },
+            "amp-img": {
+              "width": "100%",
+              "margin": "0 auto",
+              "text-align": "center"
+            },
+            "& when not (@showButtons)": {
+              ".mbr-text": {
+                "padding-bottom": "0",
+                "margin-bottom": "0"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-section-subtitle, .mbr-text": {
+                "text-align": "center"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".container-fluid": {
+                "padding": "0 3.5rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-block": {
+                "padding": "0 !important",
+                "margin-bottom": "1.5rem !important"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".text-block": {
+                "& when not (@flexDirection)": {
+                  "padding-left": "4rem"
+                },
+                "& when (@flexDirection)": {
+                  "padding-right": "4rem"
+                }
+              }
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ececec",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/boyboygirlgirlboyboylink-1764x1187.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\" selected=\"\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/hed-home-extend-design-1764x1305.png\" layout=\"responsive\" width=\"881.3241379310346\" height=\"652\" alt=\"Hed-home-extend-design | Website design and Development | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/hed-home-extend-design-1764x1305.png\" alt=\"Hed-home-extend-design | Website design and Development | andreas karaiskos business communications through design\" title=\"Hed-home-extend-design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">hed-homextendesign</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">LOGO, LOGOTYPE, CORPORATE IDENTITY, WEBSITE DESIGN.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Bespoke HTML Web Site Design, Brand Development and Corporate Identity.<br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features2-45",
+          "_isUserblock": true,
+          "_sourceTheme": "lightamp",
+          "_cid": "rq09iXrYXs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -7317,7 +7408,7 @@
             }
           },
           "_name": "features2",
-          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/ms-support-packaging-1660x9619.png\" selected=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/ms-hosiery-packaging-support-factor-15-1764x2429.png\" layout=\"responsive\" width=\"881.6368876080692\" height=\"1214\" alt=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/ms-hosiery-packaging-support-factor-15-1764x2429.png\" alt=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\" title=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Support Hosiery Packaging Design</span></div></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">HOSIERY DEPARTMENT PSEUDO BRAND PREMIUM PACKAGING DESIGN, PACKAGING CONSTRUCTION, NAVIGATION GRAPHICS, POS GRAPHICS AND PHOTOGRAPHIC ART DIRECTION.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">The purpose of this project was not only to re-enhance and make more desirable their existing hosiery packaging from its tired old fashioned appearance, and design new lines to be added to the already vast and confusing product range, but to create by way of a matrix, a system to ensure customers could navigate clearly and identify their purchase 'At A Glance' by size, colour, and denier appearance the product ranges unique values, qualities and properties. A system that has been adopted and emulated by hosiery and lingerie competing industry retailers and manufacturers alike.<br><br>Following the success from sales at the launch of the Pearl product through its packaging design to an audience previously un-identified, it gave rise to a whole new product line to be tendered, 'The Bridal Collection'.<br><br>Photography by: Jonathan Glynn-Smith<br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/ms-support-packaging-1660x96111.png\" selected=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n        <input type=\"range\" inline=\"\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' &amp;&amp; overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/ms-hosiery-packaging-support-factor-15-1764x2429.png\" layout=\"responsive\" width=\"881.6368876080692\" height=\"1214\" alt=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/ms-hosiery-packaging-support-factor-15-1764x2429.png\" alt=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\" title=\"Marks &amp; Spencer Support factor 15 Hosiery Packaging | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Support Hosiery Packaging Design</span></div></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">HOSIERY DEPARTMENT PSEUDO BRAND PREMIUM PACKAGING DESIGN, PACKAGING CONSTRUCTION, NAVIGATION GRAPHICS, POS GRAPHICS AND PHOTOGRAPHIC ART DIRECTION.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">The purpose of this project was not only to re-enhance and make more desirable their existing hosiery packaging from its tired old fashioned appearance, and design new lines to be added to the already vast and confusing product range, but to create by way of a matrix, a system to ensure customers could navigate clearly and identify their purchase 'At A Glance' by size, colour, and denier appearance the product ranges unique values, qualities and properties. A system that has been adopted and emulated by hosiery and lingerie competing industry retailers and manufacturers alike.<br><br>Following the success from sales at the launch of the Pearl product through its packaging design to an audience previously un-identified, it gave rise to a whole new product line to be tendered, 'The Bridal Collection'.<br><br>Photography by: Jonathan Glynn-Smith<br></p>\n                <div mbr-buttons=\"\" class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "features2-3y",
           "_isUserblock": true,
           "_sourceTheme": "lightamp",
@@ -7473,6 +7564,557 @@
           "_isUserblock": true,
           "_sourceTheme": "lightamp",
           "_cid": "rpkdJTbNrs",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "title": "Astons London Estate Agents",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "-webkit-transform": "translateX(0%) !important",
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "min-height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "-webkit-justify-content": "space-between",
+              "justify-content": "space-between",
+              "padding": ".5rem 1rem",
+              "min-height": "80px",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            ".brand": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#ffffff"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "-webkit-transform": "rotate(45deg)",
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "-webkit-transform": "rotate(-45deg)",
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "-webkit-flex-direction": "row",
+                  "flex-direction": "row",
+                  "-webkit-flex-wrap": "wrap",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "relative",
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "margin-right": "1rem",
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "width": "~\"@{logoWidth}px\"",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              }
+            }
+          },
+          "_name": "menu2",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Links\" name=\"showLinks\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#c69999\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/asset-4-110x145.png\" layout=\"responsive\" width=\"55.37931034482758\" height=\"73\" alt=\"Andreas Karaiskos Business Communications Through Design\" class=\"mobirise-loader\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <a href=\"index.html#menu2-i\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/asset-4-110x145.png\" alt=\"Andreas Karaiskos Business Communications Through Design\" title=\"AndreasKaraiskos.com Business Communications Through Design\"></a>\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-4\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\">\n              Andreas Karaiskos<br>Business Communications Through Design</p>\n      </div>\n      <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showLinks\"><a class=\"text-warning\" href=\"index.html#menu2-i\" data-app-placeholder=\"Type Text\">Home</a>\n              \n              <a class=\"text-warning\" href=\"page7.html#menu2-i\" data-app-placeholder=\"Type Text\">About Us</a> <a class=\"text-warning\" href=\"page4.html#menu2-i\" data-app-placeholder=\"Type Text\">Graphic Design</a> <a class=\"text-warning\" href=\"page6.html#menu2-i\" data-app-placeholder=\"Type Text\">Website Design</a> <a class=\"text-warning\" href=\"page5.html#menu2-i\" data-app-placeholder=\"Type Text\">Photography</a> <a class=\"text-warning\" href=\"page3.html#menu2-i\" data-app-placeholder=\"Type Text\">Building &amp; Interior Design</a> <a class=\"text-warning\" href=\"clients.html#menu2-i\" data-app-placeholder=\"Type Text\">Clients</a> <a class=\"text-warning\" href=\"page8.html#features20-1b\" data-app-placeholder=\"Type Text\">Contact</a></div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-black-outline\" href=\"index.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>HOME</strong></a> <a class=\"btn btn-sm btn-black-outline\" href=\"page4.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>GRAPHIC DESIGN</strong></a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>WEBSITE DESIGN</strong></a> <a class=\"btn btn-sm btn-black-outline\" href=\"page5.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>PHOTOGRAPHY</strong></a> <a class=\"btn btn-sm btn-black-outline\" href=\"page3.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>BUILDING &amp; INTERIORR DESIGN</strong></a> <a class=\"btn btn-sm btn-black-outline\" href=\"clients.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>CLIENTS</strong></a>    <a class=\"btn btn-sm btn-black-outline\" href=\"page8.html#menu2-i\" data-app-placeholder=\"Type Text\"><strong>CONTACT</strong></a></div>\n        </div>\n    </amp-sidebar>\n</section>",
+          "_cid": "riKS2YIOrQ",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu2-46"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              ".mbr-overlay": {
+                "background-color": "@overlayColor",
+                "opacity": "@overlayOpacity"
+              }
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".image-block": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center"
+            },
+            "amp-img": {
+              "width": "100%",
+              "margin": "0 auto",
+              "text-align": "center"
+            },
+            "& when not (@showButtons)": {
+              ".mbr-text": {
+                "padding-bottom": "0",
+                "margin-bottom": "0"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-section-subtitle, .mbr-text": {
+                "text-align": "center"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".container-fluid": {
+                "padding": "0 3.5rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-block": {
+                "padding": "0 !important",
+                "margin-bottom": "1.5rem !important"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".text-block": {
+                "& when not (@flexDirection)": {
+                  "padding-left": "4rem"
+                },
+                "& when (@flexDirection)": {
+                  "padding-right": "4rem"
+                }
+              }
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/astons-office-mono-1200x795.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\">\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' && overlay\">\n        <input type=\"range\" inline title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' && overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/astons-office-mono-1-1200x795.jpg\" layout=\"responsive\" width=\"889.0566037735849\" height=\"589\" alt=\"Astons London Estate Agents | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-office-mono-1-1200x795.jpg\" alt=\"Astons London Estate Agents | Graphic design | andreas karaiskos business communications through design\" title=\"Astons London Estate Agents | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Astons London</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, BROCHURE DESIGN, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Astons London took the big leap to go independent of franchise holdings. Partnering, our aim together was to create a unique brand under their own name to introduce to their existing customers taking care not to alienate them, that would both uphold the integrity of their previous service offer, and develop a new customer base against an ever saturated and highly competitive market.<br></p>\n                <div mbr-buttons class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features2-47",
+          "_isUserblock": true,
+          "_sourceTheme": "lightamp",
+          "_cid": "rq0cjuWFIK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              ".mbr-overlay": {
+                "background-color": "@overlayColor",
+                "opacity": "@overlayOpacity"
+              }
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".image-block": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center"
+            },
+            "amp-img": {
+              "width": "100%",
+              "margin": "0 auto",
+              "text-align": "center"
+            },
+            "& when not (@showButtons)": {
+              ".mbr-text": {
+                "padding-bottom": "0",
+                "margin-bottom": "0"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-section-subtitle, .mbr-text": {
+                "text-align": "center"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".container-fluid": {
+                "padding": "0 3.5rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-block": {
+                "padding": "0 !important",
+                "margin-bottom": "1.5rem !important"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".text-block": {
+                "& when not (@flexDirection)": {
+                  "padding-left": "4rem"
+                },
+                "& when (@flexDirection)": {
+                  "padding-right": "4rem"
+                }
+              }
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/astons-office-mono-1200x795.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\" selected>\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' && overlay\">\n        <input type=\"range\" inline title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' && overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/astons-absolute-featured-sale-let-independantly-boutique-nov-art-1-copy-1764x1239.jpg\" layout=\"responsive\" width=\"881.2881355932203\" height=\"619\" alt=\"Astons London Estate Agents Absolute Advertorial  | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-absolute-featured-sale-let-independantly-boutique-nov-art-1-copy-1764x1239.jpg\" alt=\"Astons London Estate Agents Absolute Advertorial  | Graphic design | andreas karaiskos business communications through design\" title=\"Astons London Estate Agents Absolute Advertorial  | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Astons London</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, BROCHURE DESIGN, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Astons London Absolute Magazine Monthly Advertorial Campaign, clean and fresh featured property<br></p>\n                <div mbr-buttons class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features2-48",
+          "_isUserblock": true,
+          "_sourceTheme": "lightamp",
+          "_cid": "rq0hoXe4nk",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              ".mbr-overlay": {
+                "background-color": "@overlayColor",
+                "opacity": "@overlayOpacity"
+              }
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".image-block": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center"
+            },
+            "amp-img": {
+              "width": "100%",
+              "margin": "0 auto",
+              "text-align": "center"
+            },
+            "& when not (@showButtons)": {
+              ".mbr-text": {
+                "padding-bottom": "0",
+                "margin-bottom": "0"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-section-subtitle, .mbr-text": {
+                "text-align": "center"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".container-fluid": {
+                "padding": "0 3.5rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-block": {
+                "padding": "0 !important",
+                "margin-bottom": "1.5rem !important"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".text-block": {
+                "& when not (@flexDirection)": {
+                  "padding-left": "4rem"
+                },
+                "& when (@flexDirection)": {
+                  "padding-right": "4rem"
+                }
+              }
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/astons-office-mono-1200x795.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\" selected>\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' && overlay\">\n        <input type=\"range\" inline title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' && overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/astons-a5-inv-to-sell-your-property-art-1-copy-1764x1221.png\" layout=\"responsive\" width=\"881.2776412776412\" height=\"610\" alt=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-a5-inv-to-sell-your-property-art-1-copy-1764x1221.png\" alt=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\" title=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Astons London A5 Leaflet</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, BROCHURE DESIGN, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Astons London A5 Leaflet Canvas Advertising Campaign<br></p>\n                <div mbr-buttons class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features2-49",
+          "_isUserblock": true,
+          "_sourceTheme": "lightamp",
+          "_cid": "rq0wnVaBTt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              ".mbr-overlay": {
+                "background-color": "@overlayColor",
+                "opacity": "@overlayOpacity"
+              }
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".image-block": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center"
+            },
+            "amp-img": {
+              "width": "100%",
+              "margin": "0 auto",
+              "text-align": "center"
+            },
+            "& when not (@showButtons)": {
+              ".mbr-text": {
+                "padding-bottom": "0",
+                "margin-bottom": "0"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-section-subtitle, .mbr-text": {
+                "text-align": "center"
+              }
+            },
+            "@media (min-width: 768px)": {
+              ".container-fluid": {
+                "padding": "0 3.5rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-block": {
+                "padding": "0 !important",
+                "margin-bottom": "1.5rem !important"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".text-block": {
+                "& when not (@flexDirection)": {
+                  "padding-left": "4rem"
+                },
+                "& when (@flexDirection)": {
+                  "padding-right": "4rem"
+                }
+              }
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#464646",
+              "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features2",
+          "_customHTML": "<section class=\"features2\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"7\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/astons-office-mono-1200x795.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#c69999\" selected>\n        </fieldset>\n    \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type!='color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c69999\" condition=\"bg.type!='color' && overlay\">\n        <input type=\"range\" inline title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"bg.type!='color' && overlay\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div class=\"container-fluid\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/astons-a5-promo-leaflet-artwork-copy-1764x1221.png\" layout=\"responsive\" width=\"881.2776412776412\" height=\"610\" alt=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/astons-a5-promo-leaflet-artwork-copy-1764x1221.png\" alt=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\" title=\"Astons London Estate Agents A5 Leaflet Canvas Advertising | Graphic design | andreas karaiskos business communications through design\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6\">\n                <h2 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Astons London A5 Inception Leaflet</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-6\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">LOGO, LOGOTYPE, BRAND TAGLINE, CORPORATE IDENTITY, STORE FACIA, ADVERTISING INSTORE AND OUTDOOR, ADVERTORIAL PROMOTIONS, BROCHURE DESIGN, DIRECT MAIL GRAPHICS, PROMOTIONAL ONLINE AND SOCIAL GRAPHICS.</h3>\n                <p class=\"mbr-fonts-style mbr-text\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Astons London A5 Leaflet Canvas Launch Advertising, Astons London 'Searching for you' Inception Brand ID, Logo and Tagline and new contact and social details&nbsp;<br></p>\n                <div mbr-buttons class=\"mbr-section-btn\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3u\" data-app-placeholder=\"Type Text\">Packaging PREMIUM</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3v\" data-app-placeholder=\"Type Text\">\n                        SHINE</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page9.html#features2-3x\" data-app-placeholder=\"Type Text\">\n                        SUPPORT</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        OCCASION</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY SHEER</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        LUXURY GLOSS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        HOLD UPS</a> <a class=\"btn btn-sm btn-black-outline\" href=\"page6.html#features2-11\" data-app-placeholder=\"Type Text\">\n                        KNEE HIGHS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "features2-4a",
+          "_isUserblock": true,
+          "_sourceTheme": "lightamp",
+          "_cid": "rq0z4ZzLLs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
